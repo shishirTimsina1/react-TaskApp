@@ -1,4 +1,4 @@
-# npm install, npm start, npm run server
+# To run : npm install, npm start, npm run server
 
 # npm build
 
